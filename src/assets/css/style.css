@@ -1,0 +1,12 @@
+.product-wrapper {
+}
+.container .card {
+    width: 18rem;
+}
+.card img {
+    width: 20rem;
+    height: 10rem;
+    object-fit: cover;
+    object-position: center;
+    margin: .5rem 0;
+}
